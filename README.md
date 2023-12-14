@@ -1,16 +1,41 @@
-### Hi there 👋
+# Krzysztof Lesiak
 
-<!--
-**KrzysztofLesiak/KrzysztofLesiak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Frontend Developer
 
-Here are some ideas to get you started:
+My name is Krzysztof and I'm 23 yo Frontend Developer from Poland.
+I'm currently working as an automation technician. I have completed the Frontend course and now I'm working on Fullstack (<b>React</b> + <b>Django</b>) ERP webapp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech-Stack
+
+- JavaScript / TypeScript
+  - React
+  - React Context
+  - Redux
+- Python
+  - Django
+- Git
+- HTML and CSS
+
+## Projects
+
+### <a href="https://calorie-tracker-kl.netlify.app/">CalorieTracker</a>
+
+Application designed to help users track their daily calorie intake.
+
+Stack: React, React Context, SCSS, Firebase, TS
+
+---
+
+### BusinessControl
+
+<i>Currently in progress</i>
+
+Business Management Application.
+
+Stack: React, Redux, Django, Tailwind
+
+## Contact
+
+<a href="https://www.linkedin.com/in/lesiak-krzysztof/">LinkedIn</a>
+
+Email: <a href="mailto:krzysztoflesiak99@gmail.com">krzysztoflesiak99@gmail.com</a>
