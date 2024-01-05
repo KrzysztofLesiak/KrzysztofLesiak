@@ -32,7 +32,7 @@ Stack: React, React Context, SCSS, Firebase, TS
 
 Business Management Application.
 
-Stack: React, Redux, Django, Tailwind
+Stack: React, TypeScript, Redux, RTK Query, Django, Tailwind, PostgreSQL, Jest
 
 ## Contact
 
